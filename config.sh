@@ -9,4 +9,4 @@ export MAKEFILE=twrp_nicky
 export TARGET=recoveryimage
 export OUTPUT=recovery.img
 export ALT_FILE=empty
-export RANDOM=17257
+export RANDOM=1051
